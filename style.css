@@ -92,8 +92,6 @@ h2 {
 #interests li:hover {
   background: #90e4c1;
   color: #fff;
-  border-color: #000;
-  transform: translateY(-2px);
 }
 .sidebar-img {
   width: 100%;
@@ -118,7 +116,7 @@ nav {
   align-items: center;
   margin-bottom: 48px;
   padding: 16px 24px;
-  background: #FFFFE0;
+  background: #ffffe0;
   border: 1px solid #000;
   border-radius: 12px;
 }
@@ -129,7 +127,7 @@ nav h1 {
   font-weight: 700;
   text-transform: uppercase;
   letter-spacing: 0.2em;
-  color: #FFC0CB;
+  color: #ffc0cb;
 }
 
 #nav-ul {
@@ -153,6 +151,6 @@ nav h1 {
 }
 
 .nav-li a:hover {
-  background: #FFFFE0;
-  color: #FFFFE0;
+  background: #ffffe0;
+  color: #ffffe0;
 }
