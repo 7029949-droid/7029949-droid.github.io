@@ -90,7 +90,7 @@ h2 {
 }
 
 #interests li:hover {
-  background: #FF69B4;
+  background: #b4fcb4;
   color: #fff;
 }
 .sidebar-img {
@@ -117,7 +117,7 @@ nav {
   margin-bottom: 48px;
   padding: 16px 24px;
   background: #FFFFE0;
-  border: 1px solid #000;
+  border: 1px solid #FFD580;
   border-radius: 12px;
 }
 
@@ -151,12 +151,12 @@ nav h1 {
 }
 
 .nav-li a:hover {
-  background: #FF69B4;
-  color: #FF69B4;
+  background: #caffca;
+  color: #000;
 }
 /* Portfolio styles */
 .content h1 {
-  color: black;
+  color:#FFD580;
 }
 
 #portfolio {
